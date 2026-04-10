@@ -4,3 +4,9 @@ build
 # West files
 .west
 deps
+
+.venv/
+bootloader/
+modules/
+tools/
+zephyr/
